@@ -38,7 +38,7 @@ It also includes a **reentrancy guard** and owner-only **token recovery** functi
 
 Below is the screenshot showing the **successful deployment transaction** on the Celo Sepolia testnet explorer:
 
-![Transaction Screenshot](https://photos.app.goo.gl/u69amUvUSijhTyKw7) 
+![Transaction Screenshot](https://sour-coral-6btsavzzxm.edgeone.app/) 
 
 > _Note: This transaction was performed on CELO Sepolia testnet for demonstration purposes only._
 
