@@ -1,3 +1,12 @@
+Transaction Details
+Network: Celo Sepolia Testnet
+Transaction Hash: 0xf27913156919b1989ee430ea8966eff59bd45a33acb9890412b6d7f90114576f
+Status: ✅ Success
+Block Number: 8,453,668
+Timestamp: Oct 29, 2025, 17:04:16 PM (UTC+05:30)
+Deployed By: 0xC6a4DF3e3c65ab6930FF99ade096302429e8168C
+Link: https://celo-sepolia.blockscout.com/tx/0xa79bf83f6b61a781fa2e6a2501bd5d506e8c075adf6f441689aa49e4ed67c45b
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
