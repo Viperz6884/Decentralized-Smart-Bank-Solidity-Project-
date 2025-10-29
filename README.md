@@ -173,7 +173,8 @@ Environment: Injected Web3 (Metamask connected to CELO Sepolia)
 🧑‍💻 Author
 
 Project: Decentralized Smart Bank
-Developer: Your Name
+Developer: Prietish Pathak
+Contact Details: prietish12@gmail.com
 Network: Celo Sepolia
 Category: Web3 / Blockchain / Smart Contract
 
